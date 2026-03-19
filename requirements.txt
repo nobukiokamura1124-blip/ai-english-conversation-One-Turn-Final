@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc==0.47.1
+openai
+gtts
+numpy
+av
+soundfile
